@@ -1,3 +1,5 @@
+![GitHub Logo](./davidyao.png)
+
 ### Hi there 👋
 
 <!--

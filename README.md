@@ -8,7 +8,7 @@
 
 
 - 🔭 I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Laravel and Symfony. I help, CTOs, entrepreneurs, and companies to develop their web application with adapted packages
-- 🌱 I’m currently learning Ruby on Rails at [Microverse.org](https://www.microverse.org/)
+- 🌱 I learned Ruby on Rails, ReactJS and Redux at [Microverse.org](https://www.microverse.org/)
 - 👯 I’m looking for new opportunities
 
 ## 💬 Find me around the web 🌎: <a href="http://david-yao.com"><img align="left" width="150" height="150" style="border-radius: 50%" src="https://github.com/daviidy/daviidy/blob/master/dave_transparent.png"></a>

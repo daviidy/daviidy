@@ -15,6 +15,6 @@
 Twitter: [@davidyao3](https://twitter.com/DavidYao3) / [LinkedIn](https://www.linkedin.com/in/david-yao-6bb95299/) / [My personal website](http://david-yao.com)
 
 
-- 📫 Or you can contact directly via Whatsapp: +225 0758450600
+- 📫 Or you can contact directly via Whatsapp: +1 641 451 4016
 - ⚡ I love playing Football/Soccer and BasketBall
 

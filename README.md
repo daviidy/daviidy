@@ -10,7 +10,7 @@
 - 👯 I’m looking for new opportunities
 
 ## 💬 Find me around the web 🌎: <a href="http://david-yao.com"><img align="left" width="150" height="150" style="border-radius: 50%" src="./0-removebg-preview.png"></a>
-Twitter: [@davidyao3](https://twitter.com/DavidYao3) / [LinkedIn](https://www.linkedin.com/in/david-yao-armel/?locale=en_US) / [My personal website](https://davidyao.herokuapp.com/)
+Twitter: [@davidyao_dev](https://twitter.com/davidyao_dev) / [LinkedIn](https://www.linkedin.com/in/nda-yao/) / [My personal website](https://david-yao.up.railway.app/portfolio)
 
 
 - 📫 Or you can contact directly via: +1 641 451 4016

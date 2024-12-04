@@ -5,7 +5,7 @@
 -->
 
 
-- 🔭 I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Laravel and Symfony. I help, CTOs, entrepreneurs, and companies to develop their web application with adapted packages
+- 🔭 I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. I love working on large scale applications.
 - 🌱 I focus on the Backend (70%), front-end (20%), system design, with Ruby on Rails, Laravel, Spring boot, ReactJS and Redux
 - 👯 I’m looking for new opportunities
 
